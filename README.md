@@ -1,5 +1,4 @@
-# payment_app!
-align="middle"
+# Razorpay Integration Payment App using Flutter
 References:
 
 https://razorpay.com/docs/payments/payment-gateway/flutter-integration/standard
